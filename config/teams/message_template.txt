@@ -1,0 +1,9 @@
+Olá {tech_lead_name}!
+
+Segue atualização do backlog do departamento {department_name}:
+
+{decisions_by_type}
+
+O gestor {manager_name} está ciente para acompanhamento.
+
+Mensagem gerada automaticamente.

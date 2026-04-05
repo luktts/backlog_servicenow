@@ -1,0 +1,1202 @@
+[
+  {
+    "number": "INC0000001",
+    "short_description": "Problema simulado número 1",
+    "assignment_group": "server_team",
+    "impact": 4,
+    "urgency": 1,
+    "opened_at": "2026-03-26T22:33:08Z",
+    "sla": {
+      "percentage": 11.9,
+      "paused": true
+    }
+  },
+  {
+    "number": "INC0000002",
+    "short_description": "Problema simulado número 2",
+    "assignment_group": "field_support",
+    "impact": 2,
+    "urgency": 1,
+    "opened_at": "2026-03-25T22:33:08Z",
+    "sla": {
+      "percentage": 13.2,
+      "paused": false
+    }
+  },
+  {
+    "number": "INC0000003",
+    "short_description": "Problema simulado número 3",
+    "assignment_group": "lan_support",
+    "impact": 1,
+    "urgency": 4,
+    "opened_at": "2026-04-03T22:33:08Z",
+    "sla": {
+      "percentage": 10.6,
+      "paused": true
+    }
+  },
+  {
+    "number": "INC0000004",
+    "short_description": "Problema simulado número 4",
+    "assignment_group": "lan_support",
+    "impact": 1,
+    "urgency": 4,
+    "opened_at": "2026-03-06T22:33:08Z",
+    "sla": {
+      "percentage": 9.7,
+      "paused": true
+    }
+  },
+  {
+    "number": "INC0000005",
+    "short_description": "Problema simulado número 5",
+    "assignment_group": "server_team",
+    "impact": 3,
+    "urgency": 4,
+    "opened_at": "2026-04-04T22:33:08Z",
+    "sla": {
+      "percentage": 18.7,
+      "paused": true
+    }
+  },
+  {
+    "number": "INC0000006",
+    "short_description": "Problema simulado número 6",
+    "assignment_group": "vpn_support",
+    "impact": 2,
+    "urgency": 1,
+    "opened_at": "2026-03-18T22:33:08Z",
+    "sla": {
+      "percentage": 60.3,
+      "paused": true
+    }
+  },
+  {
+    "number": "INC0000007",
+    "short_description": "Problema simulado número 7",
+    "assignment_group": "infra_support",
+    "impact": 1,
+    "urgency": 1,
+    "opened_at": "2026-03-25T22:33:08Z",
+    "sla": {
+      "percentage": 63.8,
+      "paused": false
+    }
+  },
+  {
+    "number": "INC0000008",
+    "short_description": "Problema simulado número 8",
+    "assignment_group": "security_ops",
+    "impact": 3,
+    "urgency": 4,
+    "opened_at": "2026-03-15T22:33:08Z",
+    "sla": {
+      "percentage": 60.6,
+      "paused": false
+    }
+  },
+  {
+    "number": "INC0000009",
+    "short_description": "Problema simulado número 9",
+    "assignment_group": "vpn_support",
+    "impact": 2,
+    "urgency": 2,
+    "opened_at": "2026-03-25T22:33:08Z",
+    "sla": {
+      "percentage": 71.4,
+      "paused": true
+    }
+  },
+  {
+    "number": "INC0000010",
+    "short_description": "Problema simulado número 10",
+    "assignment_group": "vpn_support",
+    "impact": 4,
+    "urgency": 3,
+    "opened_at": "2026-04-03T22:33:08Z",
+    "sla": {
+      "percentage": 74.3,
+      "paused": false
+    }
+  },
+  {
+    "number": "INC0000011",
+    "short_description": "Problema simulado número 11",
+    "assignment_group": "remote_support",
+    "impact": 1,
+    "urgency": 4,
+    "opened_at": "2026-03-17T22:33:08Z",
+    "sla": {
+      "percentage": 20.7,
+      "paused": false
+    }
+  },
+  {
+    "number": "INC0000012",
+    "short_description": "Problema simulado número 12",
+    "assignment_group": "soc_level2",
+    "impact": 4,
+    "urgency": 1,
+    "opened_at": "2026-04-01T22:33:08Z",
+    "sla": {
+      "percentage": 96.4,
+      "paused": true
+    }
+  },
+  {
+    "number": "INC0000013",
+    "short_description": "Problema simulado número 13",
+    "assignment_group": "application_support",
+    "impact": 3,
+    "urgency": 3,
+    "opened_at": "2026-03-12T22:33:08Z",
+    "sla": {
+      "percentage": 61.5,
+      "paused": false
+    }
+  },
+  {
+    "number": "INC0000014",
+    "short_description": "Problema simulado número 14",
+    "assignment_group": "remote_support",
+    "impact": 3,
+    "urgency": 4,
+    "opened_at": "2026-04-03T22:33:08Z",
+    "sla": {
+      "percentage": 71.2,
+      "paused": true
+    }
+  },
+  {
+    "number": "INC0000015",
+    "short_description": "Problema simulado número 15",
+    "assignment_group": "vpn_support",
+    "impact": 4,
+    "urgency": 3,
+    "opened_at": "2026-04-04T22:33:08Z",
+    "sla": {
+      "percentage": 73.1,
+      "paused": false
+    }
+  },
+  {
+    "number": "INC0000016",
+    "short_description": "Problema simulado número 16",
+    "assignment_group": "soc_level1",
+    "impact": 3,
+    "urgency": 2,
+    "opened_at": "2026-04-05T22:33:08Z",
+    "sla": {
+      "percentage": 63.0,
+      "paused": false
+    }
+  },
+  {
+    "number": "INC0000017",
+    "short_description": "Problema simulado número 17",
+    "assignment_group": "network_team",
+    "impact": 3,
+    "urgency": 2,
+    "opened_at": "2026-04-04T22:33:08Z",
+    "sla": {
+      "percentage": 75.1,
+      "paused": false
+    }
+  },
+  {
+    "number": "INC0000018",
+    "short_description": "Problema simulado número 18",
+    "assignment_group": "soc_level2",
+    "impact": 1,
+    "urgency": 2,
+    "opened_at": "2026-03-24T22:33:08Z",
+    "sla": {
+      "percentage": 47.7,
+      "paused": false
+    }
+  },
+  {
+    "number": "INC0000019",
+    "short_description": "Problema simulado número 19",
+    "assignment_group": "server_team",
+    "impact": 4,
+    "urgency": 3,
+    "opened_at": "2026-03-08T22:33:08Z",
+    "sla": {
+      "percentage": 72.1,
+      "paused": false
+    }
+  },
+  {
+    "number": "INC0000020",
+    "short_description": "Problema simulado número 20",
+    "assignment_group": "crm_support",
+    "impact": 2,
+    "urgency": 2,
+    "opened_at": "2026-03-15T22:33:08Z",
+    "sla": {
+      "percentage": 12.9,
+      "paused": true
+    }
+  },
+  {
+    "number": "INC0000021",
+    "short_description": "Problema simulado número 21",
+    "assignment_group": "lan_support",
+    "impact": 1,
+    "urgency": 4,
+    "opened_at": "2026-03-29T22:33:08Z",
+    "sla": {
+      "percentage": 84.0,
+      "paused": true
+    }
+  },
+  {
+    "number": "INC0000022",
+    "short_description": "Problema simulado número 22",
+    "assignment_group": "vpn_support",
+    "impact": 1,
+    "urgency": 2,
+    "opened_at": "2026-03-28T22:33:08Z",
+    "sla": {
+      "percentage": 44.8,
+      "paused": false
+    }
+  },
+  {
+    "number": "INC0000023",
+    "short_description": "Problema simulado número 23",
+    "assignment_group": "application_support",
+    "impact": 2,
+    "urgency": 1,
+    "opened_at": "2026-03-17T22:33:08Z",
+    "sla": {
+      "percentage": 48.4,
+      "paused": false
+    }
+  },
+  {
+    "number": "INC0000024",
+    "short_description": "Problema simulado número 24",
+    "assignment_group": "crm_support",
+    "impact": 4,
+    "urgency": 1,
+    "opened_at": "2026-03-24T22:33:08Z",
+    "sla": {
+      "percentage": 50.7,
+      "paused": false
+    }
+  },
+  {
+    "number": "INC0000025",
+    "short_description": "Problema simulado número 25",
+    "assignment_group": "network_team",
+    "impact": 1,
+    "urgency": 2,
+    "opened_at": "2026-04-04T22:33:08Z",
+    "sla": {
+      "percentage": 46.9,
+      "paused": true
+    }
+  },
+  {
+    "number": "INC0000026",
+    "short_description": "Problema simulado número 26",
+    "assignment_group": "field_support",
+    "impact": 1,
+    "urgency": 1,
+    "opened_at": "2026-03-26T22:33:08Z",
+    "sla": {
+      "percentage": 58.8,
+      "paused": true
+    }
+  },
+  {
+    "number": "INC0000027",
+    "short_description": "Problema simulado número 27",
+    "assignment_group": "erp_support",
+    "impact": 1,
+    "urgency": 1,
+    "opened_at": "2026-03-06T22:33:08Z",
+    "sla": {
+      "percentage": 88.1,
+      "paused": false
+    }
+  },
+  {
+    "number": "INC0000028",
+    "short_description": "Problema simulado número 28",
+    "assignment_group": "wan_support",
+    "impact": 3,
+    "urgency": 3,
+    "opened_at": "2026-04-01T22:33:08Z",
+    "sla": {
+      "percentage": 50.0,
+      "paused": true
+    }
+  },
+  {
+    "number": "INC0000029",
+    "short_description": "Problema simulado número 29",
+    "assignment_group": "soc_level2",
+    "impact": 4,
+    "urgency": 4,
+    "opened_at": "2026-03-09T22:33:08Z",
+    "sla": {
+      "percentage": 51.0,
+      "paused": true
+    }
+  },
+  {
+    "number": "INC0000030",
+    "short_description": "Problema simulado número 30",
+    "assignment_group": "infra_support",
+    "impact": 3,
+    "urgency": 3,
+    "opened_at": "2026-04-01T22:33:08Z",
+    "sla": {
+      "percentage": 50.5,
+      "paused": true
+    }
+  },
+  {
+    "number": "INC0000031",
+    "short_description": "Problema simulado número 31",
+    "assignment_group": "service_desk",
+    "impact": 2,
+    "urgency": 3,
+    "opened_at": "2026-03-20T22:33:08Z",
+    "sla": {
+      "percentage": 18.9,
+      "paused": true
+    }
+  },
+  {
+    "number": "INC0000032",
+    "short_description": "Problema simulado número 32",
+    "assignment_group": "iam_support",
+    "impact": 3,
+    "urgency": 1,
+    "opened_at": "2026-03-12T22:33:08Z",
+    "sla": {
+      "percentage": 71.1,
+      "paused": false
+    }
+  },
+  {
+    "number": "INC0000033",
+    "short_description": "Problema simulado número 33",
+    "assignment_group": "erp_support",
+    "impact": 2,
+    "urgency": 3,
+    "opened_at": "2026-03-20T22:33:08Z",
+    "sla": {
+      "percentage": 78.3,
+      "paused": false
+    }
+  },
+  {
+    "number": "INC0000034",
+    "short_description": "Problema simulado número 34",
+    "assignment_group": "lan_support",
+    "impact": 2,
+    "urgency": 2,
+    "opened_at": "2026-03-16T22:33:08Z",
+    "sla": {
+      "percentage": 82.7,
+      "paused": true
+    }
+  },
+  {
+    "number": "INC0000035",
+    "short_description": "Problema simulado número 35",
+    "assignment_group": "iam_support",
+    "impact": 4,
+    "urgency": 3,
+    "opened_at": "2026-03-30T22:33:08Z",
+    "sla": {
+      "percentage": 74.4,
+      "paused": true
+    }
+  },
+  {
+    "number": "INC0000036",
+    "short_description": "Problema simulado número 36",
+    "assignment_group": "wan_support",
+    "impact": 4,
+    "urgency": 3,
+    "opened_at": "2026-03-11T22:33:08Z",
+    "sla": {
+      "percentage": 23.4,
+      "paused": false
+    }
+  },
+  {
+    "number": "INC0000037",
+    "short_description": "Problema simulado número 37",
+    "assignment_group": "erp_support",
+    "impact": 3,
+    "urgency": 1,
+    "opened_at": "2026-03-22T22:33:08Z",
+    "sla": {
+      "percentage": 25.9,
+      "paused": true
+    }
+  },
+  {
+    "number": "INC0000038",
+    "short_description": "Problema simulado número 38",
+    "assignment_group": "network_team",
+    "impact": 3,
+    "urgency": 2,
+    "opened_at": "2026-03-21T22:33:08Z",
+    "sla": {
+      "percentage": 50.9,
+      "paused": true
+    }
+  },
+  {
+    "number": "INC0000039",
+    "short_description": "Problema simulado número 39",
+    "assignment_group": "erp_support",
+    "impact": 1,
+    "urgency": 1,
+    "opened_at": "2026-03-21T22:33:08Z",
+    "sla": {
+      "percentage": 91.4,
+      "paused": true
+    }
+  },
+  {
+    "number": "INC0000040",
+    "short_description": "Problema simulado número 40",
+    "assignment_group": "cloud_operations",
+    "impact": 4,
+    "urgency": 3,
+    "opened_at": "2026-03-21T22:33:08Z",
+    "sla": {
+      "percentage": 13.2,
+      "paused": false
+    }
+  },
+  {
+    "number": "INC0000041",
+    "short_description": "Problema simulado número 41",
+    "assignment_group": "crm_support",
+    "impact": 1,
+    "urgency": 2,
+    "opened_at": "2026-03-22T22:33:08Z",
+    "sla": {
+      "percentage": 21.2,
+      "paused": true
+    }
+  },
+  {
+    "number": "INC0000042",
+    "short_description": "Problema simulado número 42",
+    "assignment_group": "server_team",
+    "impact": 4,
+    "urgency": 2,
+    "opened_at": "2026-04-05T22:33:08Z",
+    "sla": {
+      "percentage": 63.1,
+      "paused": false
+    }
+  },
+  {
+    "number": "INC0000043",
+    "short_description": "Problema simulado número 43",
+    "assignment_group": "erp_support",
+    "impact": 2,
+    "urgency": 2,
+    "opened_at": "2026-03-15T22:33:08Z",
+    "sla": {
+      "percentage": 7.0,
+      "paused": true
+    }
+  },
+  {
+    "number": "INC0000044",
+    "short_description": "Problema simulado número 44",
+    "assignment_group": "server_team",
+    "impact": 4,
+    "urgency": 2,
+    "opened_at": "2026-03-20T22:33:08Z",
+    "sla": {
+      "percentage": 83.5,
+      "paused": true
+    }
+  },
+  {
+    "number": "INC0000045",
+    "short_description": "Problema simulado número 45",
+    "assignment_group": "wan_support",
+    "impact": 2,
+    "urgency": 3,
+    "opened_at": "2026-04-05T22:33:08Z",
+    "sla": {
+      "percentage": 52.6,
+      "paused": false
+    }
+  },
+  {
+    "number": "INC0000046",
+    "short_description": "Problema simulado número 46",
+    "assignment_group": "security_ops",
+    "impact": 2,
+    "urgency": 1,
+    "opened_at": "2026-03-28T22:33:08Z",
+    "sla": {
+      "percentage": 91.5,
+      "paused": false
+    }
+  },
+  {
+    "number": "INC0000047",
+    "short_description": "Problema simulado número 47",
+    "assignment_group": "soc_level1",
+    "impact": 4,
+    "urgency": 2,
+    "opened_at": "2026-03-08T22:33:08Z",
+    "sla": {
+      "percentage": 55.5,
+      "paused": true
+    }
+  },
+  {
+    "number": "INC0000048",
+    "short_description": "Problema simulado número 48",
+    "assignment_group": "soc_level1",
+    "impact": 2,
+    "urgency": 1,
+    "opened_at": "2026-03-09T22:33:08Z",
+    "sla": {
+      "percentage": 78.7,
+      "paused": true
+    }
+  },
+  {
+    "number": "INC0000049",
+    "short_description": "Problema simulado número 49",
+    "assignment_group": "server_team",
+    "impact": 4,
+    "urgency": 1,
+    "opened_at": "2026-03-31T22:33:08Z",
+    "sla": {
+      "percentage": 57.9,
+      "paused": false
+    }
+  },
+  {
+    "number": "INC0000050",
+    "short_description": "Problema simulado número 50",
+    "assignment_group": "iam_support",
+    "impact": 4,
+    "urgency": 1,
+    "opened_at": "2026-03-15T22:33:08Z",
+    "sla": {
+      "percentage": 88.9,
+      "paused": true
+    }
+  },
+  {
+    "number": "INC0000051",
+    "short_description": "Problema simulado número 51",
+    "assignment_group": "network_team",
+    "impact": 3,
+    "urgency": 1,
+    "opened_at": "2026-03-29T22:33:08Z",
+    "sla": {
+      "percentage": 78.4,
+      "paused": false
+    }
+  },
+  {
+    "number": "INC0000052",
+    "short_description": "Problema simulado número 52",
+    "assignment_group": "service_desk",
+    "impact": 1,
+    "urgency": 4,
+    "opened_at": "2026-03-19T22:33:08Z",
+    "sla": {
+      "percentage": 35.9,
+      "paused": true
+    }
+  },
+  {
+    "number": "INC0000053",
+    "short_description": "Problema simulado número 53",
+    "assignment_group": "wan_support",
+    "impact": 4,
+    "urgency": 4,
+    "opened_at": "2026-03-14T22:33:08Z",
+    "sla": {
+      "percentage": 53.2,
+      "paused": true
+    }
+  },
+  {
+    "number": "INC0000054",
+    "short_description": "Problema simulado número 54",
+    "assignment_group": "iam_support",
+    "impact": 3,
+    "urgency": 2,
+    "opened_at": "2026-03-14T22:33:08Z",
+    "sla": {
+      "percentage": 84.8,
+      "paused": true
+    }
+  },
+  {
+    "number": "INC0000055",
+    "short_description": "Problema simulado número 55",
+    "assignment_group": "infra_support",
+    "impact": 4,
+    "urgency": 4,
+    "opened_at": "2026-03-23T22:33:08Z",
+    "sla": {
+      "percentage": 35.0,
+      "paused": true
+    }
+  },
+  {
+    "number": "INC0000056",
+    "short_description": "Problema simulado número 56",
+    "assignment_group": "remote_support",
+    "impact": 2,
+    "urgency": 3,
+    "opened_at": "2026-03-23T22:33:08Z",
+    "sla": {
+      "percentage": 79.5,
+      "paused": true
+    }
+  },
+  {
+    "number": "INC0000057",
+    "short_description": "Problema simulado número 57",
+    "assignment_group": "erp_support",
+    "impact": 2,
+    "urgency": 3,
+    "opened_at": "2026-03-06T22:33:08Z",
+    "sla": {
+      "percentage": 88.9,
+      "paused": false
+    }
+  },
+  {
+    "number": "INC0000058",
+    "short_description": "Problema simulado número 58",
+    "assignment_group": "infra_support",
+    "impact": 4,
+    "urgency": 4,
+    "opened_at": "2026-03-29T22:33:08Z",
+    "sla": {
+      "percentage": 20.5,
+      "paused": true
+    }
+  },
+  {
+    "number": "INC0000059",
+    "short_description": "Problema simulado número 59",
+    "assignment_group": "security_ops",
+    "impact": 4,
+    "urgency": 3,
+    "opened_at": "2026-03-31T22:33:08Z",
+    "sla": {
+      "percentage": 45.0,
+      "paused": false
+    }
+  },
+  {
+    "number": "INC0000060",
+    "short_description": "Problema simulado número 60",
+    "assignment_group": "remote_support",
+    "impact": 3,
+    "urgency": 1,
+    "opened_at": "2026-03-26T22:33:08Z",
+    "sla": {
+      "percentage": 37.1,
+      "paused": false
+    }
+  },
+  {
+    "number": "INC0000061",
+    "short_description": "Problema simulado número 61",
+    "assignment_group": "service_desk",
+    "impact": 4,
+    "urgency": 3,
+    "opened_at": "2026-03-22T22:33:08Z",
+    "sla": {
+      "percentage": 54.2,
+      "paused": false
+    }
+  },
+  {
+    "number": "INC0000062",
+    "short_description": "Problema simulado número 62",
+    "assignment_group": "remote_support",
+    "impact": 1,
+    "urgency": 2,
+    "opened_at": "2026-03-20T22:33:08Z",
+    "sla": {
+      "percentage": 97.3,
+      "paused": true
+    }
+  },
+  {
+    "number": "INC0000063",
+    "short_description": "Problema simulado número 63",
+    "assignment_group": "wan_support",
+    "impact": 3,
+    "urgency": 1,
+    "opened_at": "2026-04-03T22:33:08Z",
+    "sla": {
+      "percentage": 91.1,
+      "paused": true
+    }
+  },
+  {
+    "number": "INC0000064",
+    "short_description": "Problema simulado número 64",
+    "assignment_group": "server_team",
+    "impact": 4,
+    "urgency": 3,
+    "opened_at": "2026-03-28T22:33:08Z",
+    "sla": {
+      "percentage": 43.6,
+      "paused": false
+    }
+  },
+  {
+    "number": "INC0000065",
+    "short_description": "Problema simulado número 65",
+    "assignment_group": "application_support",
+    "impact": 1,
+    "urgency": 3,
+    "opened_at": "2026-03-14T22:33:08Z",
+    "sla": {
+      "percentage": 10.5,
+      "paused": true
+    }
+  },
+  {
+    "number": "INC0000066",
+    "short_description": "Problema simulado número 66",
+    "assignment_group": "remote_support",
+    "impact": 3,
+    "urgency": 1,
+    "opened_at": "2026-03-23T22:33:08Z",
+    "sla": {
+      "percentage": 65.3,
+      "paused": false
+    }
+  },
+  {
+    "number": "INC0000067",
+    "short_description": "Problema simulado número 67",
+    "assignment_group": "lan_support",
+    "impact": 1,
+    "urgency": 3,
+    "opened_at": "2026-04-03T22:33:08Z",
+    "sla": {
+      "percentage": 87.0,
+      "paused": false
+    }
+  },
+  {
+    "number": "INC0000068",
+    "short_description": "Problema simulado número 68",
+    "assignment_group": "application_support",
+    "impact": 4,
+    "urgency": 3,
+    "opened_at": "2026-04-05T22:33:08Z",
+    "sla": {
+      "percentage": 64.1,
+      "paused": true
+    }
+  },
+  {
+    "number": "INC0000069",
+    "short_description": "Problema simulado número 69",
+    "assignment_group": "lan_support",
+    "impact": 1,
+    "urgency": 2,
+    "opened_at": "2026-03-20T22:33:08Z",
+    "sla": {
+      "percentage": 29.9,
+      "paused": true
+    }
+  },
+  {
+    "number": "INC0000070",
+    "short_description": "Problema simulado número 70",
+    "assignment_group": "vpn_support",
+    "impact": 3,
+    "urgency": 2,
+    "opened_at": "2026-03-30T22:33:08Z",
+    "sla": {
+      "percentage": 32.5,
+      "paused": true
+    }
+  },
+  {
+    "number": "INC0000071",
+    "short_description": "Problema simulado número 71",
+    "assignment_group": "erp_support",
+    "impact": 1,
+    "urgency": 3,
+    "opened_at": "2026-03-28T22:33:08Z",
+    "sla": {
+      "percentage": 8.5,
+      "paused": true
+    }
+  },
+  {
+    "number": "INC0000072",
+    "short_description": "Problema simulado número 72",
+    "assignment_group": "iam_support",
+    "impact": 2,
+    "urgency": 4,
+    "opened_at": "2026-03-13T22:33:08Z",
+    "sla": {
+      "percentage": 28.3,
+      "paused": false
+    }
+  },
+  {
+    "number": "INC0000073",
+    "short_description": "Problema simulado número 73",
+    "assignment_group": "security_ops",
+    "impact": 4,
+    "urgency": 4,
+    "opened_at": "2026-04-02T22:33:08Z",
+    "sla": {
+      "percentage": 97.2,
+      "paused": false
+    }
+  },
+  {
+    "number": "INC0000074",
+    "short_description": "Problema simulado número 74",
+    "assignment_group": "network_team",
+    "impact": 2,
+    "urgency": 3,
+    "opened_at": "2026-03-14T22:33:08Z",
+    "sla": {
+      "percentage": 23.9,
+      "paused": true
+    }
+  },
+  {
+    "number": "INC0000075",
+    "short_description": "Problema simulado número 75",
+    "assignment_group": "erp_support",
+    "impact": 1,
+    "urgency": 2,
+    "opened_at": "2026-03-24T22:33:08Z",
+    "sla": {
+      "percentage": 6.4,
+      "paused": false
+    }
+  },
+  {
+    "number": "INC0000076",
+    "short_description": "Problema simulado número 76",
+    "assignment_group": "cloud_operations",
+    "impact": 1,
+    "urgency": 1,
+    "opened_at": "2026-03-23T22:33:08Z",
+    "sla": {
+      "percentage": 68.2,
+      "paused": false
+    }
+  },
+  {
+    "number": "INC0000077",
+    "short_description": "Problema simulado número 77",
+    "assignment_group": "iam_support",
+    "impact": 3,
+    "urgency": 2,
+    "opened_at": "2026-03-09T22:33:08Z",
+    "sla": {
+      "percentage": 70.8,
+      "paused": true
+    }
+  },
+  {
+    "number": "INC0000078",
+    "short_description": "Problema simulado número 78",
+    "assignment_group": "cloud_operations",
+    "impact": 2,
+    "urgency": 3,
+    "opened_at": "2026-03-22T22:33:08Z",
+    "sla": {
+      "percentage": 47.4,
+      "paused": false
+    }
+  },
+  {
+    "number": "INC0000079",
+    "short_description": "Problema simulado número 79",
+    "assignment_group": "application_support",
+    "impact": 3,
+    "urgency": 2,
+    "opened_at": "2026-03-25T22:33:08Z",
+    "sla": {
+      "percentage": 8.3,
+      "paused": false
+    }
+  },
+  {
+    "number": "INC0000080",
+    "short_description": "Problema simulado número 80",
+    "assignment_group": "erp_support",
+    "impact": 2,
+    "urgency": 1,
+    "opened_at": "2026-03-30T22:33:08Z",
+    "sla": {
+      "percentage": 36.9,
+      "paused": true
+    }
+  },
+  {
+    "number": "INC0000081",
+    "short_description": "Problema simulado número 81",
+    "assignment_group": "wan_support",
+    "impact": 2,
+    "urgency": 2,
+    "opened_at": "2026-03-21T22:33:08Z",
+    "sla": {
+      "percentage": 52.9,
+      "paused": true
+    }
+  },
+  {
+    "number": "INC0000082",
+    "short_description": "Problema simulado número 82",
+    "assignment_group": "wan_support",
+    "impact": 1,
+    "urgency": 2,
+    "opened_at": "2026-04-03T22:33:08Z",
+    "sla": {
+      "percentage": 43.0,
+      "paused": true
+    }
+  },
+  {
+    "number": "INC0000083",
+    "short_description": "Problema simulado número 83",
+    "assignment_group": "service_desk",
+    "impact": 3,
+    "urgency": 3,
+    "opened_at": "2026-03-24T22:33:08Z",
+    "sla": {
+      "percentage": 64.8,
+      "paused": true
+    }
+  },
+  {
+    "number": "INC0000084",
+    "short_description": "Problema simulado número 84",
+    "assignment_group": "iam_support",
+    "impact": 2,
+    "urgency": 4,
+    "opened_at": "2026-03-18T22:33:08Z",
+    "sla": {
+      "percentage": 77.6,
+      "paused": false
+    }
+  },
+  {
+    "number": "INC0000085",
+    "short_description": "Problema simulado número 85",
+    "assignment_group": "vpn_support",
+    "impact": 2,
+    "urgency": 1,
+    "opened_at": "2026-04-01T22:33:08Z",
+    "sla": {
+      "percentage": 83.4,
+      "paused": false
+    }
+  },
+  {
+    "number": "INC0000086",
+    "short_description": "Problema simulado número 86",
+    "assignment_group": "iam_support",
+    "impact": 2,
+    "urgency": 1,
+    "opened_at": "2026-03-13T22:33:08Z",
+    "sla": {
+      "percentage": 83.5,
+      "paused": true
+    }
+  },
+  {
+    "number": "INC0000087",
+    "short_description": "Problema simulado número 87",
+    "assignment_group": "service_desk",
+    "impact": 1,
+    "urgency": 2,
+    "opened_at": "2026-04-03T22:33:08Z",
+    "sla": {
+      "percentage": 65.5,
+      "paused": true
+    }
+  },
+  {
+    "number": "INC0000088",
+    "short_description": "Problema simulado número 88",
+    "assignment_group": "soc_level1",
+    "impact": 1,
+    "urgency": 1,
+    "opened_at": "2026-03-24T22:33:08Z",
+    "sla": {
+      "percentage": 64.5,
+      "paused": true
+    }
+  },
+  {
+    "number": "INC0000089",
+    "short_description": "Problema simulado número 89",
+    "assignment_group": "wan_support",
+    "impact": 1,
+    "urgency": 4,
+    "opened_at": "2026-03-21T22:33:08Z",
+    "sla": {
+      "percentage": 80.8,
+      "paused": true
+    }
+  },
+  {
+    "number": "INC0000090",
+    "short_description": "Problema simulado número 90",
+    "assignment_group": "iam_support",
+    "impact": 1,
+    "urgency": 4,
+    "opened_at": "2026-03-15T22:33:08Z",
+    "sla": {
+      "percentage": 29.0,
+      "paused": true
+    }
+  },
+  {
+    "number": "INC0000091",
+    "short_description": "Problema simulado número 91",
+    "assignment_group": "wan_support",
+    "impact": 2,
+    "urgency": 2,
+    "opened_at": "2026-03-09T22:33:08Z",
+    "sla": {
+      "percentage": 26.9,
+      "paused": false
+    }
+  },
+  {
+    "number": "INC0000092",
+    "short_description": "Problema simulado número 92",
+    "assignment_group": "crm_support",
+    "impact": 1,
+    "urgency": 4,
+    "opened_at": "2026-03-21T22:33:08Z",
+    "sla": {
+      "percentage": 91.5,
+      "paused": false
+    }
+  },
+  {
+    "number": "INC0000093",
+    "short_description": "Problema simulado número 93",
+    "assignment_group": "field_support",
+    "impact": 2,
+    "urgency": 1,
+    "opened_at": "2026-03-12T22:33:08Z",
+    "sla": {
+      "percentage": 62.0,
+      "paused": false
+    }
+  },
+  {
+    "number": "INC0000094",
+    "short_description": "Problema simulado número 94",
+    "assignment_group": "vpn_support",
+    "impact": 2,
+    "urgency": 1,
+    "opened_at": "2026-03-28T22:33:08Z",
+    "sla": {
+      "percentage": 50.8,
+      "paused": false
+    }
+  },
+  {
+    "number": "INC0000095",
+    "short_description": "Problema simulado número 95",
+    "assignment_group": "infra_support",
+    "impact": 2,
+    "urgency": 4,
+    "opened_at": "2026-03-28T22:33:08Z",
+    "sla": {
+      "percentage": 32.6,
+      "paused": false
+    }
+  },
+  {
+    "number": "INC0000096",
+    "short_description": "Problema simulado número 96",
+    "assignment_group": "soc_level1",
+    "impact": 4,
+    "urgency": 1,
+    "opened_at": "2026-03-22T22:33:08Z",
+    "sla": {
+      "percentage": 99.4,
+      "paused": true
+    }
+  },
+  {
+    "number": "INC0000097",
+    "short_description": "Problema simulado número 97",
+    "assignment_group": "remote_support",
+    "impact": 4,
+    "urgency": 1,
+    "opened_at": "2026-03-27T22:33:08Z",
+    "sla": {
+      "percentage": 32.5,
+      "paused": true
+    }
+  },
+  {
+    "number": "INC0000098",
+    "short_description": "Problema simulado número 98",
+    "assignment_group": "iam_support",
+    "impact": 4,
+    "urgency": 3,
+    "opened_at": "2026-03-10T22:33:08Z",
+    "sla": {
+      "percentage": 41.8,
+      "paused": true
+    }
+  },
+  {
+    "number": "INC0000099",
+    "short_description": "Problema simulado número 99",
+    "assignment_group": "remote_support",
+    "impact": 2,
+    "urgency": 3,
+    "opened_at": "2026-04-03T22:33:08Z",
+    "sla": {
+      "percentage": 95.5,
+      "paused": true
+    }
+  },
+  {
+    "number": "INC0000100",
+    "short_description": "Problema simulado número 100",
+    "assignment_group": "iam_support",
+    "impact": 3,
+    "urgency": 1,
+    "opened_at": "2026-03-17T22:33:08Z",
+    "sla": {
+      "percentage": 71.8,
+      "paused": true
+    }
+  }
+]

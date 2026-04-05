@@ -1,0 +1,14 @@
+<p>Olá <b>{tech_lead_name}</b>,</p>
+
+<p>
+Após a análise do backlog do departamento <b>{department_name}</b>,
+identificamos os seguintes incidentes agrupados por tipo de ação necessária:
+</p>
+
+{decisions_by_type}
+
+<p>O gestor <b>{manager_name}</b> está em cópia para acompanhamento.</p>
+
+<p>Atenciosamente,</p>
+
+<img src="cid:signature">

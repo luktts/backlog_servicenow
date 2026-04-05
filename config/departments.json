@@ -1,0 +1,66 @@
+{
+  "departments": [
+    {
+      "name": "End User Support",
+      "manager": "Juliana Martins",
+      "manager_email": "juliana.martins@company.example",
+      "tech_lead": "Pedro Azevedo",
+      "tech_lead_email": "pedro.azevedo@company.example",
+      "assignment_groups": [
+        "service_desk",
+        "field_support",
+        "remote_support"
+      ]
+    },
+    {
+      "name": "Infrastructure",
+      "manager": "Carlos Menezes",
+      "manager_email": "carlos.menezes@company.example",
+      "tech_lead": "Rafael Costa",
+      "tech_lead_email": "rafael.costa@company.example",
+      "assignment_groups": [
+        "infra_support",
+        "server_team",
+        "cloud_operations"
+      ]
+    },
+    {
+      "name": "Networking",
+      "manager": "Ana Ribeiro",
+      "manager_email": "ana.ribeiro@company.example",
+      "tech_lead": "Marcos Lima",
+      "tech_lead_email": "marcos.lima@company.example",
+      "assignment_groups": [
+        "network_team",
+        "lan_support",
+        "wan_support",
+        "vpn_support"
+      ]
+    },
+    {
+      "name": "Applications",
+      "manager": "Fernanda Lopes",
+      "manager_email": "fernanda.lopes@company.example",
+      "tech_lead": "Thiago Barros",
+      "tech_lead_email": "thiago.barros@company.example",
+      "assignment_groups": [
+        "application_support",
+        "erp_support",
+        "crm_support"
+      ]
+    },
+    {
+      "name": "Security",
+      "manager": "Roberta Nogueira",
+      "manager_email": "roberta.nogueira@company.example",
+      "tech_lead": "Lucas Fernandes",
+      "tech_lead_email": "lucas.fernandes@company.example",
+      "assignment_groups": [
+        "security_ops",
+        "soc_level1",
+        "soc_level2",
+        "iam_support"
+      ]
+    }
+  ]
+}
