@@ -58,6 +58,22 @@ A aplicação segue uma arquitetura em camadas, inspirada nos princípios de **C
 
 ---
 
+## Funcionamento Geral
+
+A aplicação foi projetada para processar dados de incidentes exportados de ferramentas ITSM, como o ServiceNow, e apoiar a análise e priorização em contexto de backlog operacional.
+
+Em alto nível, o funcionamento ocorre da seguinte forma:
+
+1. O usuário fornece um arquivo de entrada (CSV ou JSON) contendo incidentes simulados
+2. Os dados são validados e transformados para o modelo de domínio
+3. As regras de decisão são aplicadas pelo Decision Engine
+4. O resultado pode ser visualizado na interface ou exportado para análise externa (ex: CSV)
+
+O sistema foi estruturado para permitir que a lógica de decisão evolua de forma independente da interface ou do formato de entrada/saída.
+``
+
+---
+
 ## 📐 Decisões Arquiteturais
 
 As decisões técnicas e arquiteturais do projeto estão documentadas em:
