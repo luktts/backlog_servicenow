@@ -91,5 +91,4 @@ backlog_servicenow/
 
 ## 👤 Autor
 
-Lucas Mattos
-Arquivo criado com fins de estudo e prática de Engenharia de Software com boas práticas de Arquitetura.
+Lucas Mattos. Arquivo criado com fins de estudo e prática de Engenharia de Software com boas práticas de Arquitetura.
